@@ -4,7 +4,7 @@ A device for the consumption of alternative products with Nicotine.
 :::info 
 
 **Author**: Soare Cătălin-Ștefan \
-**GitHub Project Link**: https://github.com/UPB-PMRust-Students/project-stevensun369
+**GitHub Project Link**: https://github.com/UPB-PMRust-Students/fils-project-stevensun369
 :::
 
 <!-- do not delete the \ after your name -->
